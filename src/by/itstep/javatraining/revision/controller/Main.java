@@ -12,6 +12,7 @@ public class Main {
         msg += "\n" + TaskTester.testingTask05();
         msg += "\n" + TaskTester.testingTask06();
         msg += "\n" + TaskTester.testingTask07();
+        msg += "\n" + TaskTester.testingTaskX();
         System.out.println(msg);
     }
 }
