@@ -216,6 +216,7 @@ public class TaskTester {
                 && !Task06.start(-1, 7, -1, 8)
                 && !Task06.start(0, 7, 0, 8)
                 && !Task06.start(9, 7, 9, 8)
+                && !Task06.start(1, 7, 1, 6)
                 && Task06.start(4, 7, 4, 8)
                 && Task06.start(1, 7, 1, 8)
                 && Task06.start(8, 7, 8, 8);
